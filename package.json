@@ -1,0 +1,23 @@
+{
+  "name": "the-gecko-web",
+  "version": "1.0.0",
+  "description": "Team GECKO's official website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylean/the-gecko-web.git"
+  },
+  "keywords": [
+    "GECKO",
+    "Gemstone"
+  ],
+  "author": "Team GECKO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylean/the-gecko-web/issues"
+  },
+  "homepage": "https://github.com/Sylean/the-gecko-web#readme"
+}
